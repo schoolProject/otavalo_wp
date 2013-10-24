@@ -10,3 +10,4 @@ Added this line
 Santiago
 
 Juan Delgado
+ local imgage 
